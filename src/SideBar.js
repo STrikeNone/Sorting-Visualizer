@@ -11,7 +11,7 @@ function SideBar(props) {
         <input
           type="range"
           min="20"
-          max={200}
+          max={170}
           id="arrLen"
           value={arrLen}
           onChange={generateArray}
