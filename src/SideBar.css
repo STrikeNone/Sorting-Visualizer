@@ -1,0 +1,41 @@
+.name {
+  font-size: 2rem;
+}
+
+.right-item {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.right-item button {
+  background-color: rgb(74, 190, 45);
+  color: rgb(58, 52, 52);
+  cursor: pointer;
+  font-weight: bold;
+  margin: 0 10px;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+.main {
+  justify-content: space-between;
+  align-items: center;
+}
+
+.block {
+  margin-top: 15px;
+  align-items: center;
+}
+
+.block select {
+  background-color: rgb(211, 182, 53);
+  color: rgb(29, 27, 27);
+  cursor: pointer;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.block option {
+}
